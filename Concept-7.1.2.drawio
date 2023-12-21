@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T23:41:12.757Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="V14uRUg7oIWHx-7EAbHA" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T14:17:35.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="DCJPsVKhVDWjf6OR7LwF" version="22.1.11" type="github">
   <diagram name="Page-1" id="5jQ6DaYwQfchR6-d_hJC">
-    <mxGraphModel dx="481" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="821" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
             <mxPoint x="560" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C2U7If8zWJpJN4vxUZfy-21" value="(model number)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="C2U7If8zWJpJN4vxUZfy-21" value="&lt;div&gt;(model number&lt;/div&gt;&lt;div&gt;motherboard)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="691" y="115" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C2U7If8zWJpJN4vxUZfy-22" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.5;rotation=-55;" parent="1" vertex="1">
@@ -91,7 +91,7 @@
         <mxCell id="WWyJkdElwE3lLOMZvt_9-1" value="Desktop" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="564.5" y="668" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WWyJkdElwE3lLOMZvt_9-8" value="&lt;div&gt;(model&amp;nbsp;&lt;/div&gt;&lt;div&gt;name)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="WWyJkdElwE3lLOMZvt_9-8" value="&lt;div&gt;(model&amp;nbsp;&lt;/div&gt;&lt;div&gt;name&lt;/div&gt;&lt;div&gt;desktop)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="388.5" y="668" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WWyJkdElwE3lLOMZvt_9-9" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.5;rotation=0;" parent="1" vertex="1">
@@ -148,7 +148,7 @@
         <mxCell id="WWyJkdElwE3lLOMZvt_9-22" value="&lt;div&gt;CPU&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="910" y="281" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WWyJkdElwE3lLOMZvt_9-23" value="(model number)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="WWyJkdElwE3lLOMZvt_9-23" value="&lt;div&gt;(model number&lt;/div&gt;&lt;div&gt;CPU)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="910" y="115" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WWyJkdElwE3lLOMZvt_9-24" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.5;rotation=-90;" parent="1" vertex="1">
@@ -244,7 +244,7 @@
         <mxCell id="WWyJkdElwE3lLOMZvt_9-52" value="is of" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="471" y="328" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WWyJkdElwE3lLOMZvt_9-53" value="&lt;div&gt;(model&amp;nbsp;&lt;/div&gt;&lt;div&gt;name)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="WWyJkdElwE3lLOMZvt_9-53" value="&lt;div&gt;(model&amp;nbsp;&lt;/div&gt;&lt;div&gt;name&lt;/div&gt;&lt;div&gt;memory)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="202" y="256" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WWyJkdElwE3lLOMZvt_9-54" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.5;rotation=15;" parent="1" vertex="1">
