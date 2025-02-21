@@ -1,9 +1,76 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.15">
   <diagram name="Page-1" id="cy2okkVEi3vy-zU45jnS">
-    <mxGraphModel>
+    <mxGraphModel dx="956" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ro2T5Wj72Mg5wJognGKA-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ro2T5Wj72Mg5wJognGKA-1" target="ro2T5Wj72Mg5wJognGKA-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ro2T5Wj72Mg5wJognGKA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=45;exitPerimeter=0;" edge="1" parent="1" source="ro2T5Wj72Mg5wJognGKA-1" target="ro2T5Wj72Mg5wJognGKA-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ro2T5Wj72Mg5wJognGKA-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="364" y="170" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ro2T5Wj72Mg5wJognGKA-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="330" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ro2T5Wj72Mg5wJognGKA-3" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="190" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ro2T5Wj72Mg5wJognGKA-4" value="Sensor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ro2T5Wj72Mg5wJognGKA-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ro2T5Wj72Mg5wJognGKA-2" target="ro2T5Wj72Mg5wJognGKA-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="sourcePoint" />
+            <mxPoint x="440" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ro2T5Wj72Mg5wJognGKA-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;LoRa network&lt;/h1&gt;&lt;p&gt;We use a third party LoRa network with a subscribtion (like from KPN)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="90" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ro2T5Wj72Mg5wJognGKA-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ro2T5Wj72Mg5wJognGKA-3" target="ro2T5Wj72Mg5wJognGKA-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="310" as="sourcePoint" />
+            <mxPoint x="440" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ro2T5Wj72Mg5wJognGKA-9" value="Server Backend/Database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="359" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ro2T5Wj72Mg5wJognGKA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ro2T5Wj72Mg5wJognGKA-12" target="ro2T5Wj72Mg5wJognGKA-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ro2T5Wj72Mg5wJognGKA-12" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="364" y="310" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ro2T5Wj72Mg5wJognGKA-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ro2T5Wj72Mg5wJognGKA-15" target="ro2T5Wj72Mg5wJognGKA-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ro2T5Wj72Mg5wJognGKA-15" value="Dashboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="315" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ro2T5Wj72Mg5wJognGKA-17" value="Webserver" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="299" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ro2T5Wj72Mg5wJognGKA-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ro2T5Wj72Mg5wJognGKA-21" target="ro2T5Wj72Mg5wJognGKA-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ro2T5Wj72Mg5wJognGKA-21" value="Grafana" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="150" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ro2T5Wj72Mg5wJognGKA-27" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="374" y="450" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ro2T5Wj72Mg5wJognGKA-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ro2T5Wj72Mg5wJognGKA-27" target="ro2T5Wj72Mg5wJognGKA-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
